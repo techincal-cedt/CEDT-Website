@@ -1,7 +1,6 @@
-# CDET Website
+# [CDET Website](https://techincal-cedt.github.io/CEDT-Website/)
 
-- [Website](https://techincal-cedt.github.io/CEDT-Website/)
-  The Centre for Electronics Design and Technology is a design centre visioned by Dr. B.N. Mishra, founder director NSIT, and brought to reality by Dhananjay V. Gadre. Since its inception, CEDT has been a place where students from all majors have tinkered and innovated during their stay at NSIT. One can do almost anything at CEDT, during any time of the day and any day of the year!
+The Centre for Electronics Design and Technology is a design centre visioned by Dr. B.N. Mishra, founder director NSIT, and brought to reality by Dhananjay V. Gadre. Since its inception, CEDT has been a place where students from all majors have tinkered and innovated during their stay at NSIT. One can do almost anything at CEDT, during any time of the day and any day of the year!
 
 This is an open access lab, where the students work on interesting projects and mentor others, helping in spreading the “Maker Keeda“.
 
