@@ -18,12 +18,12 @@ const sidebars = {
     {
       type: "category",
       label: "Tutorial - Devs",
-      items: ["tutorial-devs/create-a-blog-post"],
+      items: ["tutorial-devs/contribute"],
     },
     {
       type: "category",
       label: "Tutorial - Bloggers",
-      items: ["tutorial-bloggers/create-a-blog-post"],
+      items: ["tutorial-bloggers/create-a-blog"],
     },
   ],
   // But you can create a sidebar manually
