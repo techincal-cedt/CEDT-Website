@@ -17,7 +17,7 @@ const sidebars = {
   tutorialSidebar2: [
     {
       type: "category",
-      label: "Tutorial - Devs",
+      label: "Tutorial - Developers",
       items: ["tutorial-devs/contribute"],
     },
     {

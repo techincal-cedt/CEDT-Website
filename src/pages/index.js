@@ -14,12 +14,15 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+        <div>
+          The Centre for Electronics Design and Technology is a design centre
+          visioned by Dr. B.N. Mishra, founder director NSIT, and brought to
+          reality by Dhananjay V. Gadre. Since its inception, CEDT has been a
+          place where students from all majors have tinkered and innovated
+          during their stay at NSIT. One can do almost anything at CEDT, during
+          any time of the day and any day of the year! This is an open access
+          lab, where the students work on interesting projects and mentor
+          others, helping in spreading the “Maker Keeda“.
         </div>
       </div>
     </header>
@@ -33,9 +36,7 @@ export default function Home() {
       title={`Hello from CEDT`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      <main>Home Page </main>
     </Layout>
   )
 }
