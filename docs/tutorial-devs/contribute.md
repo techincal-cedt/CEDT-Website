@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# Contribute to CDET Website
+# Contribute to CEDT Website
 
 Welcome to the CEDT Website repository! We appreciate your interest in contributing to our project. Whether you're fixing a bug, adding a new feature, or improving documentation, your contributions are highly valued.
 
 ## Getting Started
 
-To get started with contributing to the CDET Website, you'll need to go through the following steps.
+To get started with contributing to the CEDT Website, you'll need to go through the following steps.
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ By ensuring that you meet these prerequisites, you'll be well-prepared to contri
 
 ### Step 1: Fork the Repository
 
-1. Open the [CDET Website repository](https://github.com/techincal-cedt/CEDT-Website).
+1. Open the [CEDT Website repository](https://github.com/techincal-cedt/CEDT-Website).
 2. Click the "Fork" button in the top right corner of the screen.
 
 ### Step 2: Clone the Repository
@@ -123,4 +123,4 @@ By ensuring that you meet these prerequisites, you'll be well-prepared to contri
 5. Enter a title and description for your pull request.
 6. Click the "Create pull request" button.
 
-Congratulations! You have successfully contributed to the CDET Website repository.
+Congratulations! You have successfully contributed to the CEDT Website repository.
