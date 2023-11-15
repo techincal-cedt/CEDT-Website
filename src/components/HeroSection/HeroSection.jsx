@@ -32,8 +32,12 @@ const HeroSection = () => {
           Empowering Students to Tinker, Innovate, and Create - Anytime,
           Anywhere.
         </h3>
-        {/* <div className="hero-btn">Know More!</div> */}
-        <Link to="whySection" smooth={true} duration={800} className="hero-btn">
+        <Link
+          to="whySection"
+          smooth={true}
+          offset={-50}
+          duration={800}
+          className="hero-btn">
           Know More!
         </Link>
       </div>
