@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react"
 import "./TestimonialSection.css"
+import AOS from "aos"
+import "aos/dist/aos.css"
 
 const TestimonialSection = () => {
   const testimonials = [
@@ -27,6 +29,9 @@ const TestimonialSection = () => {
   const [currentTestimonial, setCurrentTestimonial] = useState(0)
 
   useEffect(() => {
+    AOS.init({
+      duration: 1000,
+    })
     const timer = setInterval(() => {
       setCurrentTestimonial((currentTestimonial + 1) % testimonials.length)
     }, 10000) // Change every 10 seconds
@@ -36,8 +41,10 @@ const TestimonialSection = () => {
 
   return (
     <div className="testimonial-section">
-      <h2 className="testimonial-heading">Testimonials</h2>
-      <div className="testimonial-container">
+      <h2 className="testimonial-heading" data-aos="fade-up">
+        Testimonials
+      </h2>
+      <div className="testimonial-container" data-aos="fade-up">
         <div className="quote-container" key={currentTestimonial}>
           <blockquote>
             "{testimonials[currentTestimonial].testimonial}"

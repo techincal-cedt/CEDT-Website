@@ -1,6 +1,8 @@
-import React from "react"
+import React, { useEffect } from "react"
 import "./ProjectSection.css"
 import ProjectCard from "./ProjectCard"
+import AOS from "aos"
+import "aos/dist/aos.css"
 
 const ProjectSection = () => {
   const projects = [
@@ -26,10 +28,18 @@ const ProjectSection = () => {
     },
   ]
 
+  useEffect(() => {
+    AOS.init({
+      duration: 1000,
+    })
+  })
+
   return (
     <div className="project-container">
-      <h2 className="project-heading">Projects</h2>
-      <div className="card-container">
+      <h2 className="project-heading" data-aos="fade-up">
+        Projects
+      </h2>
+      <div className="card-container" data-aos="fade-right">
         {projects.map((project, index) => (
           <ProjectCard
             key={index}
