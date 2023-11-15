@@ -3,9 +3,11 @@ import clsx from "clsx"
 import Link from "@docusaurus/Link"
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"
 import Layout from "@theme/Layout"
-import HomepageFeatures from "@site/src/components/HomepageFeatures"
-
 import styles from "./index.module.css"
+import HeroSection from "../components/HeroSection/HeroSection"
+import WhySection from "../components/WhySection/WhySection"
+import ProjectSection from "../components/ProjectSection/ProjectSection"
+import TestimonialSection from "../components/TestimonialSection/TestimonialSection"
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext()
@@ -33,10 +35,12 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext()
   return (
     <Layout
-      title={`Hello from CEDT`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>Home Page </main>
+      title={`CEDT Website`}
+      description="The Center for Electronics Design and Technology">
+      <HeroSection />
+      <WhySection />
+      <ProjectSection />
+      <TestimonialSection />
     </Layout>
   )
 }
