@@ -25,27 +25,3 @@ I am the proud author of several professional articles and six books. Notably, m
 ### Beyond Academia
 
 In addition to my academic pursuits, I am a licensed radio amateur with a call sign VU2NOX since 1986. Looking ahead, I aspire to design, build, and launch an amateur radio satellite in the near future.
-
-## About Badri N Subudhi
-
-Greetings! I am Badri N Subudhi, an Assistant Professor at the Indian Institute of Technology Jammu, India, with a passion for advancing research in electronics and communication.
-
-### Academic and Research Journey
-
-I earned my M.Tech. in Electronics and System Communication from the National Institute of Technology, Rourkela, India, in 2008-09. My pursuit of knowledge led me to complete my Ph.D. from the Machine Intelligence Unit, Indian Statistical Institute, Kolkata, India, in 2014.
-
-### Recognitions and Awards
-
-My dedication to research has been acknowledged with various awards, including the CSIR senior research fellowship, Young Scientist Awardee by Indian Science Congress Association, and the Bose-Ramagnosi Award for the year 2010 from DST, Government of India.
-
-### Research Interests
-
-My research interests encompass a wide array of areas, including Video Processing, Image Processing, Medical Image Processing, Machine Learning, Pattern Recognition, and Remote Sensing Image Analysis.
-
-### International Exposure
-
-I had the privilege of being a visiting scientist at the University of Trento, Italy, during Aug. 2010 to Feb 2011, contributing to the global scientific community.
-
-In essence, my journey is driven by a relentless pursuit of knowledge and a commitment to contributing meaningfully to the fields of electronics and communication.
-
-These brief profiles provide a glimpse into our academic and professional endeavors, and we look forward to continuing our contributions to the world of education and research.
